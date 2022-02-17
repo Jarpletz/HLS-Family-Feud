@@ -1,0 +1,44 @@
+
+Hello! Here are the operation instructons for my Family Feud board!
+Please feel free to email me at rothpletz5@gmail.com if you have questions on how to use it!
+
+
+To Create Questions:---------------------------------
+
+1. Click Add Question
+2. Type in the Question, the answers, and their respective point values into the text fields. Edited questions will automatically save.
+3. You can also edit the questions, team names, and toggle house colors directly on the JSON file. Its path can be copied from the bottom of the question input.
+4. When saved, a spreadsheet is also created for reference when revealing answers. Its path can be copied from the bottom of the question input.
+5. When ready to begin, click "Start Game" to go to the Pre-game animation screen
+
+
+To run the Answer Board:------------------------------
+-To prevent the mouse from hinting at correct answers or detracting from play experience, everything on the board is controlled through the keyboard. Keep this handy while getting the hang of what each key does!
+
+Starting Game/Switching questions
+-From the pre-game animation screen, there are two hidden buttons on the far left of the screen. They will reveal themselves when you hover over them. They will take you to the answer board to play, or back to the question edit area. 
+-To switch questions in the answer board, click on "Next Question" or "Last Question." These buttons are also semi-hidden on the left side of the screen. 
+
+Answer/point Controls:
+
+- SPACE: Reveal Answer Board (MUST be done before revealing answers!)
+- 1-8: Reveal corresponding answer
+- X: Give an X
+- Z: Remove accidentally awarded X
+
+- F1: Award undistibuted points (The top middle score counter) to Team 1/Andrew/Red Team
+- F2: Award undistibuted points to Team 2/David/Yellow
+- F3: Award undistibuted points to Team 3/George/Purple
+- F4: Award undistibuted points to Team 4/Patrick/Green
+*If points are wrongly awarded, click on the answer display to edit it, just like in the question creator
+
+SFX and music:
+- Q: Family Feud "Exclaimation"
+- W: FF Theme song short
+- E: FF Theme song medium
+- R: FF Theme song long
+- T: FF "Buzz In" 
+
+Thats it! Let me know if you have any questions!
+August Rothpletz
+rothpletz5@gmail.com
